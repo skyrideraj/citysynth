@@ -1,7 +1,7 @@
 citysynth
 =========
 
-Citizen Science
+Citizen Science Project
 
 This application is responsible for capturing the images at regular intervals and uploading them securely to a server. To protect the images, they are encrypted with AES and uploaded through a secure channel.
 
